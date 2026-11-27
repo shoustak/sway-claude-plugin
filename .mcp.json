@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sway": {
+      "type": "http",
+      "url": "https://app.getsway.ai/api/mcp"
+    }
+  }
+}

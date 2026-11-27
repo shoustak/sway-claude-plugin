@@ -1,0 +1,15 @@
+{
+  "name": "sway",
+  "owner": { "name": "Sway", "email": "support@getsway.ai" },
+  "metadata": {
+    "description": "Sway for Claude Code: see and fix how AI answers name your brand."
+  },
+  "plugins": [
+    {
+      "name": "sway",
+      "source": "./",
+      "description": "See which brands ChatGPT, Claude and Google's AI answers name for your buyers' questions, work through Sway's fixes for your site from Claude Code, and mark them done so Sway tests what moved.",
+      "category": "marketing"
+    }
+  ]
+}
