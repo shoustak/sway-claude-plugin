@@ -6,7 +6,7 @@ Sway checks how ChatGPT, Claude, Perplexity and Google's AI Overviews answer you
 
 ```
 /plugin marketplace add shoustak/sway-claude-plugin
-/plugin install sway@sway
+/plugin install getsway@sway
 ```
 
 The first time a tool runs, Claude Code opens "Sign in with Sway" in your browser. You need a Sway account. It starts with a 7-day free trial, no card: https://getsway.ai

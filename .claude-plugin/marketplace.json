@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "sway",
+      "name": "getsway",
       "source": "./",
       "description": "See which brands ChatGPT, Claude and Google's AI answers name for your buyers' questions, work through Sway's fixes for your site from Claude Code, and mark them done so Sway tests what moved.",
       "category": "marketing"
